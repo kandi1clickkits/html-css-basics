@@ -8,9 +8,9 @@ ECHO 	Based on your network speed, the installation may take a while
 ECHO======================================================================================
 setlocal ENABLEDELAYEDEXPANSION
 REM update below path if required
-SET REPO_DOWNLOAD_URL=https://github.com/kandi1clickkits/html-css-basics/releases/download/v1.0.0/html-css-basics-main.zip
-SET REPO_NAME=html-css-basics-main.zip
-SET EXTRACTED_REPO_DIR=html-css-basics-main
+SET REPO_DOWNLOAD_URL=https://github.com/kandi1clickkits/html-css-basics/releases/download/v1.0.0/html-css-basics.zip
+SET REPO_NAME=html-css-basics.zip
+SET EXTRACTED_REPO_DIR=html-css-basics
 SET NOTEBOOK_NAME=index.html
 Call:Download_repo
 SET /P CONFIRM=Would you like to run the kit (Y/N)?
