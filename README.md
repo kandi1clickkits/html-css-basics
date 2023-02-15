@@ -1,2 +1,2 @@
 # html-css-basics
-This repo has simple program for beginners starting their programming journey in HTML/CSS.
+This repo has simple programs for beginners to create a Food recipe webpage using HTML and CSS.
